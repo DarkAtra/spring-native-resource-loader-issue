@@ -52,3 +52,5 @@ In my case, the following command produces the exception:
 ```
 docker run spring-native-resource-loader-issue:0.0.1-native -v /home/test:/data
 ```
+
+For the fix, see: https://github.com/spring-projects/spring-framework/issues/29808
